@@ -16,7 +16,7 @@ body {
   gap: 20px;
   align-items: center;
   width: 25%;
-  margin: 100px auto;
+  margin: 150px auto;
 
   background-color: hsl(0, 0%, 12%);
   padding: 30px 30px;
@@ -47,7 +47,7 @@ h1 {
   margin: 0 auto;
 }
 .sl__container-box {
-  padding: 10px 0;
+  padding: 15px 0;
   background-color: hsl(0, 0%, 20%);
   text-align: center;
 
